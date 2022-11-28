@@ -11,6 +11,10 @@
         "@inertiajs/progress": "^0.2.6",
         "@tailwindcss/forms": "^0.5.3",
         "@vitejs/plugin-react": "^2.0.0",
+<<<<<<< HEAD
+=======
+        "alpinejs": "^3.4.2",
+>>>>>>> c31e04cdfb96e7e2a48167203f7a3e4a0d150e4d
         "autoprefixer": "^10.4.12",
         "axios": "^1.1.2",
         "laravel-vite-plugin": "^0.7.0",
